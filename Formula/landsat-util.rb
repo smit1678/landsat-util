@@ -2,9 +2,9 @@ require "formula"
 
 class LandsatUtil < Formula
   homepage "http://www.developmentseed.org"
-  url "https://github.com/developmentseed/landsat-util/archive/v0.2.0.tar.gz"
+  url "https://github.com/smit1678/landsat-util/archive/v0.2.0.tar.gz"
   sha1 "00e994e82eccec4f951b66c0d30f29af41bf4bb7"
-  head "https://github.com/developmentseed/landsat-util.git"
+  head "https://github.com/smit1678/landsat-util.git"
 
   depends_on "gdal"
   depends_on "libtiff"
